@@ -140,7 +140,7 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Neural Networks and Deep Learning
-    url:''
+    url: ''
     date: ''
     awarder: Coursera
     icon: coursera
