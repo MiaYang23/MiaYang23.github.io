@@ -44,8 +44,8 @@ interests:
 education:
   - area: PhD Finance
     institution: Stockholm School of Economics
-    date_start: 2020
-    date_end: 2025
+    date_start: 2020-08-01
+    date_end: ''
     summary: |
        Supervised by Prof Per Per Strömberg.
     button:
@@ -56,46 +56,42 @@ education:
     date_start: 2018-09-01
     date_end: 2019-09-30
     summary: |
-      GPA: 3.8/4.0
+      
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
   - area: BSc Finance
     institution: Sichuan University
     date_start: 2014-09-01
     date_end: 2018-06-30
     summary: |
-      GPA: 3.4/4.0
+      
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Intern, Management Consultant
+    company_name: EY
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2019-12-01
+    date_end: 2020-01-21
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Conducted two Services projects: organizational restructuring for a mutual fund company and a development strategy project for an industrial company.
+      - Analyzed process and organizational improvements, big data as well as business cases and financial data.
+      
+  - position: Intern, Investment Banking
+    company_name: China Great Wall Securities Co. Ltd
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2019-06-14
+    date_end: 2019-09-23
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Participated in due diligence, communicated with clients through interviews and cooperated with law and accounting firms to investigate issuers business.
+      - Assisted in writing application reports for counseling, organised draft files, and completed application work, submitting registration materials to the China Securities Regulatory Commission. 
+      - Collected data and market information and analysed financial statements to assist in writing prospectuses.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -106,11 +102,11 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Stata
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Matlab
         description: ''
         percent: 40
         icon: circle-stack
@@ -122,22 +118,21 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Cooking
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: food
+      - name: Travel
         description: ''
         percent: 80
         icon: camera
 
 languages:
   - name: English
-    percent: 100
+    percent: 90
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 100
+  
 
 # Awards.
 #   Add/remove as many awards below as you like.
