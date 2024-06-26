@@ -44,10 +44,10 @@ interests:
 education:
   - area: PhD Finance
     institution: Stockholm School of Economics
-    date_start: 2020-08-21
-    date_end: 2025-12-31
+    date_start: 2020
+    date_end: 2025
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+       Supervised by Prof Per Per Strömberg.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
