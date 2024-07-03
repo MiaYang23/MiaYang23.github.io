@@ -35,9 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-         I am a Ph.D. student at the Finance Department of the Stockholm School of Economics.
+        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
 
-        I apply a range of  quantitative methods to comprehensively investigate the role of shareholders in the governance.
+        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
         
         Please reach out to collaborate 😃
     design:
