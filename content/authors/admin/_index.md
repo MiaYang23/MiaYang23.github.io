@@ -47,7 +47,7 @@ education:
     date_start: 2020-08-01
     date_end: ''
     summary: |
-       Supervised by Prof Per Per Strömberg.
+       Supervised by Prof Per Strömberg.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
