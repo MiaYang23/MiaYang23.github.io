@@ -1,6 +1,6 @@
 ---
 title: MSc Corporate Finance
-summary: Year 2022&2023 Lecturer-Bo Becker, Ramin Baghai
+summary: Year-2022&2023 Lecturer-Bo Becker; Ramin Baghai
 date: 2023-10-24
 type: docs
 math: false
