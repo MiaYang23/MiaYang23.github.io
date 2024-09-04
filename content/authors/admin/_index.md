@@ -110,7 +110,7 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
-     - name: Matlab
+      - name: Matlab
         description: ''
         percent: 40
         icon: chart-bar
