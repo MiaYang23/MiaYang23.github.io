@@ -39,7 +39,7 @@ profiles:
 interests:
   - Empirical Corporate Finance
   - Corporate Governance
-  - Institutional Investor
+  - Ownership
 
 education:
   - area: PhD Finance
@@ -58,7 +58,7 @@ education:
     summary: |
       
 
-      Courses included:
+      Courses included: Asset Pricing, Corporate Finance，Empirical Finance, Quantitative Methods for Finance 
 
   - area: BSc Finance
     institution: Sichuan University
@@ -67,7 +67,7 @@ education:
     summary: |
       
       
-      Courses included:
+      Courses included: Economics of Money, Banking and Financial Market, Theory and Practice of Investment Banking, Financial Market, Corporate Finance
       
 work:
   - position: Intern, Management Consultant
@@ -106,10 +106,14 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: Matlab
+      - name: R
         description: ''
         percent: 40
         icon: circle-stack
+     - name: Matlab
+        description: ''
+        percent: 40
+        icon: chart-bar
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
