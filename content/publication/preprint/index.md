@@ -2,7 +2,7 @@
 title: "How are different types of shareholders involved in board governance?"
 authors: 
 - admin
-date: "2024-08-07T00:00:00Z"
+date: "2022-09-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -11,7 +11,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["Paper"]
+publication_types: ["Working Paper"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
