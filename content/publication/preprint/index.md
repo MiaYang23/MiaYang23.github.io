@@ -1,8 +1,8 @@
 ---
-title: "An example preprint / working paper"
-authors:
+title: "How are different types of shareholders involved in board governance?"
+authors: 
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2024-08-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,13 +17,13 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This paper investigates the involvement of various types of major shareholders in board governance and their impact on board governance within the Swedish model of Nomination Committees (NC), where the largest shareholders directly nominate board directors. The findings identify several factors that hinder in- vestor participation in governance-the need for liquidity, limited resources, and insufficient knowledge of the Swedish model. By comparing firms with newly es- tablished shareholder-composed NCs to those with NCs formed before 2008, the study concludes that the direct involvement of shareholders in director elections enhances board governance.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
-- Large Language Models
+- Ownership structure, corporate governance, nomination committee, board governance.
 
 featured: true
 
@@ -62,7 +62,8 @@ projects:
 slides: example
 ---
 
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
+
+# This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
