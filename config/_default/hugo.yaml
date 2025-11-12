@@ -6,7 +6,8 @@
 # Website name
 title: Mengyu Yang
 # Website URL
-baseURL: 'https://example.com/'
+#baseURL: 'https://example.com/'
+baseURL: 'https://miayang23.github.io/'
 
 ############################
 ## LANGUAGE

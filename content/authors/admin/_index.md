@@ -1,4 +1,5 @@
 ---
+
 # Display name
 title: Mengyu Yang
 
@@ -37,9 +38,12 @@ profiles:
     url: https://www.linkedin.com/in/mengyuyangymy/
 
 interests:
+#  - Empirical Corporate Finance
+#  - Corporate Governance
+#  - Ownership
   - Empirical Corporate Finance
   - Corporate Governance
-  - Ownership
+  - Shareholder Involvement
 
 education:
   - area: PhD Finance

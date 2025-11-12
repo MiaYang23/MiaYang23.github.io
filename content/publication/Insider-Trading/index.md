@@ -1,5 +1,5 @@
 ---
-title: 'Tension between governance and liquidity'
+title: 'Insider Trading Regulation, Blockholder Exit, and Governance Roles'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -13,7 +13,7 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2023-03-01T00:00:00Z'
+date: '2022-03-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -28,10 +28,10 @@ publication_types: ['Working Paper']
 publication: 
 publication_short: 
 
-abstract: 
+abstract: "This paper investigates the involvement of different types of shareholders in corporate governance and their impact on boards in the context of Swedish public firms, where the largest shareholders directly nominate board directors. I identify several factors that hinder investors from serving on the board: the need for liquidity, limited resources, and insufficient knowledge of the local governance model. However, participation in the nomination committee (NC) allows these investors to exert governance influence without the costs associated with board membership. Exploiting a 2008 governance reform as a natural experiment, I show that shareholder involvement through the NC strengthens the sensitivity of board turnover to firm performance and increases the probability of female board appointments. The results highlight the NC as an alternative, low-friction governance channel through which heterogeneous investor types can shape board outcomes without assuming directorship roles."
 
 # Summary. An optional shortened abstract.
-summary: 
+summary:
 
 tags:
   - Liquidity, trading, private informantion, corporate governance

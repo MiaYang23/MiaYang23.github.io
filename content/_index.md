@@ -33,13 +33,18 @@ sections:
   - block: markdown
     content:
       title: '📚 My Research'
+#        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of shareholders in governance.
       subtitle: ''
       text: |-
         I am a Ph.D. student at the Finance Department of the Stockholm School of Economics.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of shareholders in governance.
+        I apply a range of qualitative and quantitative methods to comprehensively investigate shareholders' involvement in governance.
         
         Please reach out to collaborate 😃
+
+
+
+
     design:
       columns: '1'
   - block: collection
@@ -53,16 +58,21 @@ sections:
     design:
       view: article-grid
       columns: 2
-  - block: collection
-    content:
-      title: Recent Projects
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
+
+
+#  - block: collection
+#    content:
+#      title: Recent Projects
+#      text: ""
+#      filters:
+#        folders:
+#          - publication
+#        exclude_featured: false
+#    design:
+#      view: citation
+
+
+
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
