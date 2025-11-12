@@ -1,0 +1,12 @@
+
+#papers time.truncate {
+  display: none;
+}
+
+article main .text-gray-500 span:first-child {
+  display: none;
+}
+
+article main .text-gray-500 span:nth-child(2) {
+  display: none;
+}
