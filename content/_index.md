@@ -19,12 +19,14 @@ sections:
         text: Download CV
         url: uploads/CV.pdf
     design:
-      css_class: dark
+#      css_class: dark
+      css_class:
       background:
-        color: black
+#        color: black
+        color: white
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          # filename: stacked-peaks.svg
           filters:
             brightness: 1.0
           size: cover
