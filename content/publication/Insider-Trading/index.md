@@ -22,13 +22,13 @@ publishDate: '2017-01-01T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['Working Paper']
+publication_types: ['Joint with Hongyi Xu']
 
 # Publication name and optional abbreviated publication name.
 publication: 
 publication_short: 
 
-abstract: "This paper investigates the involvement of different types of shareholders in corporate governance and their impact on boards in the context of Swedish public firms, where the largest shareholders directly nominate board directors. I identify several factors that hinder investors from serving on the board: the need for liquidity, limited resources, and insufficient knowledge of the local governance model. However, participation in the nomination committee (NC) allows these investors to exert governance influence without the costs associated with board membership. Exploiting a 2008 governance reform as a natural experiment, I show that shareholder involvement through the NC strengthens the sensitivity of board turnover to firm performance and increases the probability of female board appointments. The results highlight the NC as an alternative, low-friction governance channel through which heterogeneous investor types can shape board outcomes without assuming directorship roles."
+abstract: "This paper investigates how tightening insider trading regulations impacts the governance roles of blockholders. Using the 2016 implementation of the Market Abuse Regulation (MAR) as a quasi-natural experiment, we analyze how heightened disclosure requirements alter the composition and behavior of key shareholders. Our findings reveal that short-term (liquidity-focused) investors reduce their board representation in the aftermath of stricter insider trading rules, while their presence on nomination committees was unchanged. MAR also increased short-term blockholders’ probability of board exit by 16-20 percentage points. By quantifying the shift in monitoring intensity versus trading flexibility, we shed new light on the trade-off between governance benefits and liquidity constraints."
 
 # Summary. An optional shortened abstract.
 summary:

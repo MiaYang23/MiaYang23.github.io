@@ -10,3 +10,11 @@ article main .text-gray-500 span:first-child {
 article main .text-gray-500 span:nth-child(2) {
   display: none;
 }
+
+article main time.block {
+  display: none;
+}
+
+article main  .container.prose-slate  .no-prose a span.text-neutral-500 {
+  display: none;
+}

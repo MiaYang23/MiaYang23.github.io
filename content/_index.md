@@ -38,11 +38,8 @@ sections:
 #        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of shareholders in governance.
       subtitle: ''
       text: |-
-        I am a Ph.D. student at the Finance Department of the Stockholm School of Economics.
-
         I apply a range of qualitative and quantitative methods to comprehensively investigate shareholders' involvement in governance.
         
-        Please reach out to collaborate 😃
 
 
 
