@@ -44,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: '/uploads/insider-trading.pdf'
 url_poster: ''
 
 
