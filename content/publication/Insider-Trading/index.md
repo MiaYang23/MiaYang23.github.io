@@ -73,3 +73,4 @@ projects:
 slides: example
 ---
 
+Joint with Hongyi Xu. This paper is inspired by the result of my paper "What Happens When Owners Choose the Board: Evidence from Shareholder-Dominated Nomination Committee"

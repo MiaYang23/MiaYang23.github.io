@@ -1,6 +1,6 @@
 ---
 title: MSc Private Equity
-summary: Year-2024 Lecturer-Per Strömberg
+summary: "2023  Lecturer: Per Strömberg"
 date: 2024-03-24
 type: docs
 math: false

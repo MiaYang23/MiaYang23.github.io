@@ -58,5 +58,4 @@ slides: example
 ---
 
 
- This paper investigates the involvement of various types of major shareholders in board governance and their impact on board governance within the Swedish model of Nomination Committees (NC), where the largest shareholders directly nominate board directors. 
-
+Single- authored. This paper includes a unique dataset on the matching of shareholders and governance roles

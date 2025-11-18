@@ -32,6 +32,7 @@ sections:
           size: cover
           position: center
           parallax: false
+
   - block: markdown
     content:
       title: '📚 My Research'
@@ -46,6 +47,8 @@ sections:
 
     design:
       columns: '1'
+
+
   - block: collection
     id: papers
     content:
@@ -92,4 +95,31 @@ sections:
         # Card background color (CSS class)
         css_class: "bg-primary-700"
         css_style: ""
+
+  - block: markdown
+    content:
+      title: '🏆 AWARDS & SCHOLARSHIPS '
+      subtitle: ''
+      text: |-
+
+        - 2025 Handelsbankens doktorandstipendium 2025
+
+        - Jan Wallanders and Tom Hedelius as well as Tore Browaldh Scholarship
+
+        - 2022-2024 2020-2021 2016 2015 Ph.D. Program Scholarship, Swedish Bank Research Foundation
+
+        - Stockholm School of Economics stipend
+
+        - SCU Comprehensive First Prize Scholarship
+
+        - Excellent Student Award, Sichuan University
+
+
+
+
+
+    design:
+      columns: '1'
+
+
 ---

@@ -34,3 +34,16 @@ article main .max-w-prose {
   margin-right: auto;
 }
 
+
+
+#section-resume-awards  .rounded-lg.shadow .leading-none {
+  display: none;
+}
+
+#section-resume-awards  .short-code-image  img  {
+  margin:  0 auto;
+}
+
+#teaching .flex-none time {
+  display: none;
+}
