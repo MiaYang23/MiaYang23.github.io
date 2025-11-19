@@ -102,17 +102,17 @@ sections:
       subtitle: ''
       text: |-
 
-        - 2025 Handelsbankens doktorandstipendium 2025
+        - 2025 Handelsbankens doktorandstipendium 
 
-        - Jan Wallanders and Tom Hedelius as well as Tore Browaldh Scholarship
+        - 2025 Jan Wallanders and Tom Hedelius as well as Tore Browaldh Scholarship
 
-        - 2022-2024 2020-2021 2016 2015 Ph.D. Program Scholarship, Swedish Bank Research Foundation
+        - 2022-2024 Ph.D. Program Scholarship, Swedish Bank Research Foundation
 
-        - Stockholm School of Economics stipend
+        - 2020-2021 Stockholm School of Economics stipend
 
-        - SCU Comprehensive First Prize Scholarship
+        - 2016 SCU Comprehensive First Prize Scholarship
 
-        - Excellent Student Award, Sichuan University
+        - 2015 Excellent Student Award, Sichuan University
 
 
 
