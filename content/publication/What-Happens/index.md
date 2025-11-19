@@ -31,7 +31,8 @@ featured: true
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: '/uploads/insider-trading.pdf'
+url_poster: ''
 
 
 # Featured image
